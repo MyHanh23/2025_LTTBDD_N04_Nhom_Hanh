@@ -1,0 +1,4 @@
+# language.yaml
+arb-dir: lib/language
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
