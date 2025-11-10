@@ -1,21 +1,19 @@
 ## 2025_LTTBDD_N04_Nhom_Hanh
 
-### **MÔ PHỎNG GIAO DIỆN APP INSTAGRAM**
+#### **MÔ PHỎNG GIAO DIỆN APP INSTAGRAM**
 
 **Group Hanh:**
 1. Đỗ Thị Mỹ Hạnh  
    _Github: MyHanh23_
 
 
-### 📋 INSTAGRAM UI CLONE
+#### 📋 INSTAGRAM UI CLONE
 
-### 🚀 Giới thiệu
+#### 🚀 Giới thiệu
 
 Dự án Instagram UI Clone được xây dựng nhằm mô phỏng lại giao diện người dùng của ứng dụng Instagram, sử dụng ngôn ngữ Dart và framework Flutter. Đây là một dự án thực hành tập trung vào phát triển giao diện người dùng (UI/UX) trên nền tảng di động.
 
----
-
-### 🎥 Demo
+#### 🎥 Demo
 
 ##### 1. Trang chủ
 <img width="20%" alt="Screenshot_20251110_002922" src="https://github.com/user-attachments/assets/27b74203-38e8-4ec5-8880-a1f492c8dd42" />
